@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "PersonalInformation": [
+    {
+      "id": 1,
+      "FirstName": "Nomvelo",
+      "LastName": "Ngcobo",
+      "Age": "10",
+      "Gender": "Female",
+      "Province": "limpopo"
+    },
+    {
+      "user": {
+        "FirstName": "lungisa",
+        "LastName": "matshona",
+        "Age": "2",
+        "Gender": "male",
+        "Province": "Mpumalanga"
+      },
+      "id": 
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

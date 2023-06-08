@@ -1,0 +1,65 @@
+body{
+
+   background-color:aqua ;
+  text-align: center;
+  line-height: 180%;
+  margin: 10px;
+  position: relative;
+  top: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+  
+  }
+
+header {
+  color:black;
+  font-size: 20px;
+}
+
+h1 {
+  color: black;
+}
+
+label {
+  color: black;
+}
+
+button {
+  width: 15%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background-color: antiquewhite;
+}
+
+button {
+  border: 10px solid black;
+  border-radius: 4px;
+}
+
+button {
+  transition: width 0.4s ease-in-out;
+}
+
+button:focus {
+  width: 30%;
+}
+
+select {
+  width: 15%;
+  padding: 12px 20px;
+  border: 2px black solid;
+  border-radius: 4px;
+  background-color: ghostwhite;
+}
+
+button {   
+  background-color: whitesmoke;
+  border: none;
+  color: black;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
